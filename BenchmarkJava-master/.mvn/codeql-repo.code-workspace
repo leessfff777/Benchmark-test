@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../codeql/codeql-repo"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../codeql_auto_tools"
+		}
+	],
+	"settings": {}
+}
